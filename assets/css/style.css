@@ -1,0 +1,17 @@
+#header{
+    border-color: #336b0e;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: bold; 
+    font-display:rgb(99, 23, 23)
+}
+#container{
+  width: 600px;
+  height: 500px;
+  border: 50px solid burlywood;
+  padding: 25px;
+  margin: 25px;
+}
+#timer{
+    text-align:center;
+}
